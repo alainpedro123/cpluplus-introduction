@@ -1,0 +1,4 @@
+POINTERS
+
+Variables are locations in the computer's memory which can be accessed by their identifier (their name). 
+This way, the program does not need to care about the physical address of the data in memory; it simply uses the identifier whenever it needs to refer to the variable.
